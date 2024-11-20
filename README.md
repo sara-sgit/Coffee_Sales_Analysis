@@ -4,7 +4,7 @@ This project focuses on analyzing coffee sales data across three countries, all 
 
 ## Dataset used 
 
-<a href="https://github.com/sara-sgit/Coffee_Sales_Project/blob/main/coffeeOrdersDataset.xlsx" target="_blank">Download Coffee Sales Dataset</a>
+<a href="https://github.com/sara-sgit/Coffee_Sales_Project/blob/master/coffeeOrdersDataset.xlsx" target="_blank">Download Coffee Sales Dataset</a>
 
 
 
@@ -18,7 +18,7 @@ This project focuses on analyzing coffee sales data across three countries, all 
   -  Which regions have the highest and lowest total coffee sales?
 
 ## Dashboard
-  <a href="https://github.com/sara-sgit/Coffee_Sales_Project/blob/main/CoffeeSales_Project.xlsx" target="_blank">Download Coffee Sales Dashboard </a>
+  <a href="https://github.com/sara-sgit/Coffee_Sales_Project/blob/master/CoffeeSales_Project.xlsx" target="_blank">Download Coffee Sales Dashboard </a>
 
 
 
