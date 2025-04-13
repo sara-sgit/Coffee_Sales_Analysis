@@ -46,9 +46,7 @@ Dashboard Development
 -  Added data visualizations like charts and graphs to highlight key findings and trends effectively.
   
 # Dashboard 
-
- 
-![CoffeSales_Analysis](https://github.com/user-attachments/assets/35f789dc-9ba1-4126-aa46-443120ab1b52)
+<img width="959" alt="Coffee sales Analysis" src="https://github.com/user-attachments/assets/f951b040-1c4c-4832-a460-3726b1516193" />
 
 ## Insights
 
